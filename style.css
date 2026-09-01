@@ -1,0 +1,45 @@
+h4{
+    font-family: Lucida Sans;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+ol{
+    font-family: Courier New;
+    color:azure;
+}
+
+ul{
+    font-family: Courier New;
+    font-size: 14px;
+    color:blue;
+}
+ 
+.paragraf{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Helvetica;
+    color:brown;
+    text-align: center;
+}
+
+#teks{
+    font-size: 18px;
+    text-decoration: highlight;
+    color:blueviolet;
+    text-align: right;
+}
+
+.gambar{
+    width: 10%;
+    height: auto;
+    border: 5px solid #000;
+    border-radius: 15px;
+    border-color: rgb(27,255,255);
+}
+
+.gambar:hover{
+    width: 35%;
+    height: auto;
+    border-color: black;
+}
